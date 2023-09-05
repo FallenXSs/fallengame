@@ -1,7 +1,7 @@
 import telebot
 
 TOKEN = "6514609660:AAH0hFPPgYVS4am21LQ5uRapVmbPdRJA5ns"
-"
+
 bot = telebot.TeleBot("6514609660:AAH0hFPPgYVS4am21LQ5uRapVmbPdRJA5ns")
 
 oyuncu1 = "❌"
